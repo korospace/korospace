@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @korospace
 - 👀 I’m interested in backend
 - 🌱 I’m currently learning nodejs
-- 💞️ I’m looking to collaborate on everithing
+- 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me? click <a href="mailto:bagaselkoro@gmail.com">here</a>
 
 <!---
